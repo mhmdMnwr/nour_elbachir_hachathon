@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:nour_elbachir_hackathon/core/router/routes.dart';
 import 'package:nour_elbachir_hackathon/core/widget/circle_progress_indicator.dart';
 import 'package:nour_elbachir_hackathon/core/widget/error_message.dart';
-import 'package:nour_elbachir_hackathon/main.dart';
 
 class AppRouter {
   static Route<dynamic>? onGenerateRoute(RouteSettings settings) {
